@@ -10,7 +10,7 @@ GitHub-ready repository containing:
 ```text
 LICENSE
 PUBLISHING.md
-skills/
+.agents/skills/
   api-doc-hitl/
     SKILL.md
     agents/openai.yaml
