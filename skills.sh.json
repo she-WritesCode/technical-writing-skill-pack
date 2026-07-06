@@ -1,0 +1,37 @@
+{
+  "name": "technical-writing-skill-pack",
+  "title": "Technical Writing Skill Pack",
+  "description": "AI agent skills and reference packs for drafting technical documentation with human verification loops.",
+  "tagline": "From source material to review-ready docs.",
+  "license": "MIT",
+  "topics": [
+    "ai-agent",
+    "documentation",
+    "technical-writing",
+    "api-docs",
+    "prompt-engineering",
+    "human-in-the-loop"
+  ],
+  "categories": [
+    "documentation",
+    "technical-writing",
+    "api-docs"
+  ],
+  "repository": {
+    "visibility": "public"
+  },
+  "skills": [
+    {
+      "name": "api-doc-hitl",
+      "path": "skills/api-doc-hitl",
+      "description": "Drafts or revises API documentation from source material with explicit human verification gates."
+    }
+  ],
+  "referencePacks": [
+    {
+      "name": "api-doc-reference-pack",
+      "path": "reference-packs/api-doc-reference-pack",
+      "description": "Templates and checklists for source intake, drafting, and verification."
+    }
+  ]
+}

@@ -13,6 +13,7 @@ Use this checklist before pushing the repo to GitHub.
 
 - Confirm `SKILL.md` matches the workflow you want others to use.
 - Confirm the reference pack files are complete and internally consistent.
+- Confirm `skills.sh.json` matches the public title, description, tagline, and topics you want shown.
 - Remove any local-only notes or scratch files.
 - Check that example prompts, placeholders, and templates are intentional.
 
